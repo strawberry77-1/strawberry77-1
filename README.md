@@ -22,7 +22,7 @@ I work at the intersection of embodied AI and LLM agents: from vision-tactile bi
 - **Tactile & Vision Perception** — contact / slip detection, dense optical-flow acceleration, adaptive feature normalization
 - **AI Agent** — LangGraph multi-agent orchestration, Hybrid Search, RAG evaluation loops
 - **Engineering** — PyQt5 / OpenGL real-time visualization, concurrency, full-stack streaming
-
+- **World Model** -
 ---
 
 ### 💼 Experience
