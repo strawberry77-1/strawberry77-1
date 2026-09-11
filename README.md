@@ -1,7 +1,8 @@
 # Xu Hang (Edwards)
 
-Embodied AI Algorithm Engineer · VLA & Tactile Perception · AI Agent Full-Stack
-Software Engineering 
+Embodied AI Algorithm Engineer · VLA & Tactile Perception · AI Agent Full-Stack · world model
+Software Engineering  
+Dedicated to realizing the deployment of VLA and AGI
 
 - Guangdong College of Commerce · Software Engineering (2023 – 2027)
 - Shenzhen / Guangzhou / Chengdu, China
@@ -84,10 +85,9 @@ Open to AI Agent / Embodied AI roles · Based in Shenzhen · Building in public
 
 # 许航 (Edwards)
 
-具身智能算法工程师 · VLA 与触觉感知 · AI Agent 全栈
-广州商学院 · 软件工程
+具身智能算法工程师 · VLA/世界模型 · AI Agent 全栈
+致力于实现 VLA/AGI落地 
 
-- 广州商学院 · 软件工程（2023 – 2027）
 - 深圳 / 广州 / 成都
 - strawberry.77.111@gmail.com
 
@@ -102,10 +102,10 @@ Open to AI Agent / Embodied AI roles · Based in Shenzhen · Building in public
 ### 🔬 当前聚焦
 
 - **具身智能 / VLA** — RGB+阵列触觉双模态数据采集、真机测试、sim-to-real
-- **触觉与视觉感知** — 接触 / 滑移检测、稠密光流加速、特征自适应归一化
 - **AI Agent** — LangGraph 多智能体编排、Hybrid Search、RAG 评估闭环
-- **工程化** — PyQt5 / OpenGL 实时可视化、并发优化、全栈流式交互
-
+- **触觉与视觉感知** — 接触 / 滑移检测、稠密光流加速、特征自适应归一化
+- **图像算法** — PyQt5 / OpenGL 实时可视化、并发优化、全栈流式交互
+- **世界模型** -
 ---
 
 
