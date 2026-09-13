@@ -1,17 +1,12 @@
-# Xu Hang (Edwards)
 
-Embodied AI Algorithm Engineer · VLA & Tactile Perception · AI Agent Full-Stack · world model
-Software Engineering  
-Dedicated to realizing the deployment of VLA and AGI
-
-- Guangdong College of Commerce · Software Engineering (2023 – 2027)
-- Shenzhen / Guangzhou / Chengdu, China
-- strawberry.77.111@gmail.com
-
-# Xu Hang
+# Xu Hang  (Edwards)
 
 **Embodied AI Algorithm Engineer — building VLA models, tactile / vision perception, and Agentic-RAG full-stack systems.**
-
+Software Engineering 
+Dedicated to realizing the deployment of VLA and AGI
+- Shenzhen / Guangzhou / Chengdu, China
+- strawberry.77.111@gmail.com
+- 
 I work at the intersection of embodied AI and LLM agents: from vision-tactile bimodal data collection for VLA models, to enterprise-grade Agentic-RAG products. I own the full pipeline — algorithm design, engineering deployment, performance optimization — and ship fast with Agentic coding tools (Claude Code / Codex).
 
 ---
