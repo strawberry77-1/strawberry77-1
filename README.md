@@ -6,7 +6,7 @@ Software Engineering
 Dedicated to realizing the deployment of VLA and AGI
 - Shenzhen / Guangzhou / Hongkong/Singapore
 - strawberry.77.111@gmail.com --business only
--
+- https://x.com/strawberry_1_77
 
 I work at the intersection of embodied AI and LLM agents: from vision-tactile bimodal data collection for VLA models, to enterprise-grade Agentic-RAG products. I own the full pipeline — algorithm design, engineering deployment, performance optimization — and ship fast with Agentic coding tools (Claude Code / Codex).
 
