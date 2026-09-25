@@ -6,7 +6,8 @@ Software Engineering
 Dedicated to realizing the deployment of VLA and AGI
 - Shenzhen / Guangzhou / Hongkong/Singapore
 - strawberry.77.111@gmail.com --business only
-- https://x.com/strawberry_1_77
+- https://x.com/strawberry_1_77 --chat anything
+- youtube - gonna building
 
 I work at the intersection of embodied AI and LLM agents: from vision-tactile bimodal data collection for VLA models, to enterprise-grade Agentic-RAG products. I own the full pipeline — algorithm design, engineering deployment, performance optimization — and ship fast with Agentic coding tools (Claude Code / Codex).
 
@@ -18,11 +19,11 @@ I work at the intersection of embodied AI and LLM agents: from vision-tactile bi
 - **AI Agent** — LangGraph multi-agent orchestration, Hybrid Search, RAG evaluation loops
 - **Engineering** — PyQt5 / OpenGL real-time visualization, concurrency, full-stack streaming
 - **World Model** -
-- **Web3 & Quant** -
+- **NYSE/Nas & Quant** -
 
 ### 💼 Experience
 
-**AI Agent Engineer · Shenzhen** `2026.01 – 2026.04`
+**AI Agent Engineer /full stack
 
 Built an enterprise-grade Agentic-RAG knowledge base (end-to-end: upload → 3-level chunking → vector store → streaming QA).
 
@@ -33,7 +34,7 @@ Built an enterprise-grade Agentic-RAG knowledge base (end-to-end: upload → 3-l
 - Full-stack streaming: SSE token-by-token push + AbortController; ~75% token savings per abort
 - Engineering: JWT + RBAC middleware, Redis multi-level cache (P95 < 15ms); shipped 25k+ lines of full-stack code solo in 3 weeks
 
-**Embodied AI Algorithm Engineer  · Shenzhen** `2026.04 – 2026.07`
+**Embodied AI Algorithm Engineer  
 
 Built the data and perception toolchain for a VLA model R&D loop (robotic arm contact-intensive tasks).
 
@@ -47,8 +48,7 @@ Built the data and perception toolchain for a VLA model R&D loop (robotic arm co
 
 ### 🌐 Languages
 
-- **English — CET-6** — fluent in reading English technical documentation and technical discussion; comfortable in English-speaking engineering environments.
-
+- **Chinese - Native -
 ---
 
 ### 📌 Projects & Open Source
@@ -100,15 +100,15 @@ Open to AI Agent / Embodied AI roles · Based in Shenzhen · Building in public
 
 - **具身智能 / VLA** — RGB+阵列触觉双模态数据采集、真机测试、sim-to-real
 - **AI Agent** — LangGraph 多智能体编排、Hybrid Search、RAG 评估闭环
-- **触觉与视觉感知** — 接触 / 滑移检测、稠密光流加速、特征自适应归一化
 - **图像算法** — PyQt5 / OpenGL 实时可视化、并发优化、全栈流式交互
+- - **触觉与视觉感知** — 接触 / 滑移检测、稠密光流加速、特征自适应归一化
 - **世界模型** -
 - **Web3 & 量化** -
 
 
 ### 🌐 语言能力
 
-- **英语 — CET-6** — 可流畅阅读英文技术文档、进行全英技术交流；适应英语工作环境。
+- **英语 — CET-6** — Spoken EN：near native 母语水平的口语，可流畅阅读英文技术文档、进行全英技术交流；适应英语工作环境。
 
 ---
 
