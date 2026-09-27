@@ -46,10 +46,7 @@ Built the data and perception toolchain for a VLA model R&D loop (robotic arm co
 
 ---
 
-### 🌐 Languages
 
-- **Chinese - Native -
----
 
 ### 📌 Projects & Open Source
 [**AVAZone**](https://github.com/strawberry77-1/AVAZone) — A Special Economic Zone for AI Agents
