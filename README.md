@@ -15,11 +15,11 @@ I work at the intersection of embodied AI and LLM agents: from vision-tactile bi
 
 ### 🔬 Now Focusing On
 
-- **Embodied AI / VLA** — RGB + array-tactile bimodal data collection, real-robot testing, sim-to-real
+- **Embodied AI / VLA** — RGB + array-tactile bimodal data collection, real-robot testing, 
 - **AI Agent** — LangGraph multi-agent orchestration, Hybrid Search, RAG evaluation loops
 - **Engineering** — PyQt5 / OpenGL real-time visualization, concurrency, full-stack streaming
-- **World Model** -
-- **NYSE/Nas & Quant** -
+- **World Model** -Visual-tactile multimodal / sim2real  
+- **NYSE/Nas & Quant** -NOVICE
 
 ### 💼 Experience
 
